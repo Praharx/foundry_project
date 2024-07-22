@@ -13,3 +13,5 @@ contract DeploySimpleStorage is Script {
         return simpleStorage;
     }
 }
+
+//`crabby` keystore was saved successfully. Address: 0x976ea74026e726554db657fa54763abd0c3a0aa9
